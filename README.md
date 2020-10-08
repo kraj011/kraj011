@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am wanted in 24 countries for tax evasion. Currently trying to learn Chinese, finish my Wiley, and reach 1000 connections on LinkedIn. My life goal is to ~~lick~~ shake Lex Fridman's hand. 👋
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=kraj011&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
