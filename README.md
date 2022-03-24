@@ -5,9 +5,6 @@
 <h1 align="center">Hey there! I'm David.</h1>
 <h3 align="center">Carnegie Mellon School of Computer Science C/O '25</h3>
 
-- I love prototyping and building anything from cross-platform apps to websites
-
-- Frameworks **I love**: React.js, React-Native, and PyTorch
 </td>
   </tr>
   
